@@ -1,4 +1,5 @@
 package ru.netology.services;
+
 public class ScheduleService {
     public int calculate(int income, int expenses, int threshold) {
         int count = 0;
